@@ -6,7 +6,7 @@ This repository aims to share the logical model regarding the article entitled "
 
 The model is provided in a .zginml file. It can be read by GINsim software or by the ginsim package in Python language.
 
-> [GINsim software](https://ginsim.org/)
+> [GINsim software](https://ginsim.github.io/)
 
 > [GINsim-python](https://github.com/GINsim/GINsim-python)
 
